@@ -1,3 +1,3 @@
-####　Readme
+###　Readme
 
 これはfirst-repositoryの説明です。
